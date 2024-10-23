@@ -1,0 +1,1 @@
+This project is a simple car dealership inventory management application written in C#. It allows users to add new cars to the inventory, view the existing inventory, and search for cars by their Vehicle Identification Number (VIN). The application demonstrates key object-oriented programming principles such as encapsulation, inheritance, and polymorphism.
